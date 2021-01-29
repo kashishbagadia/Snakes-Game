@@ -120,10 +120,7 @@ def gameloop():
                         change_to = 'UP'
 
                     if event.key == pygame.K_DOWN:
-                        change_to = 'DOWN'
-
-                    if event.key == pygame.K_q:
-                        score +=10
+                        change_to = 'DOWN'                   
 
             # Making sure the snake cannot move in the opposite direction instantaneously
             if change_to == 'UP' and direction!= 'DOWN':

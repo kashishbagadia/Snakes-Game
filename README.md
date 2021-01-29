@@ -7,3 +7,6 @@
 #### ***game screen: active***
 ![image](https://user-images.githubusercontent.com/66882470/106262662-5c8fe180-6249-11eb-8319-72dd846098fc.png)
 #### ***game over!***
+# Prerequisites
+#### 1. Pygame, an open source Python library for making multimedia applications
+#### 2. PyCharm IDE, an integrated development environment specifically for coding in Python language
